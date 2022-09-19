@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/x-icon" href="/human-skull.png">
+        <title>Ismerkedés a HTML-el</title>
+    </head>
+    <body style="background-color: rgb(20, 156, 156)"></body>
+    <h1>Első főcím</h1>
+    </body>
+</html>
